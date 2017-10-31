@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOUSE YOICHI</title>
+    <link>http://houseyoichi.com/</link>
+    <description>Recent content on HOUSE YOICHI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp-ja</language>
+    <copyright>&amp;copy; HOUSE YOICHI</copyright>
+    <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://houseyoichi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HOUSE YOICHI Vol.2</title>
+      <link>http://houseyoichi.com/release/houseyoichivol2/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/release/houseyoichivol2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HOUSE YOICHI Vol.1</title>
+      <link>http://houseyoichi.com/release/houseyoichivol1/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/release/houseyoichivol1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release Party Vol.2</title>
+      <link>http://houseyoichi.com/event/releasepartyvol2/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/event/releasepartyvol2/</guid>
+      <description>Date 2017.11.26(Sun)
+Time 16:00 - 22:00
+Place Shibuya White Space Lab
+2-20 Maruyama-cho, Shibuya-ku
+Tokyo, 150-0044
+03-6416-3973
+Door 1000 JPY(with 1Drink)
+TimeTable 16:00 ~ 16:45 MONOQ
+16:45 ~ 17:30 akky
+17:30 ~ 18:15 exy
+18:15 ~ 19:00 Nabetti
+19:00 ~ 19:45 Peno
+19:45 ~ 20:30 Pinkylab
+20:30 ~ 21:15 Yuki Ohbuchi
+21:15 ~ 22:00 DJ NICE CHOICE</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://houseyoichi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/about/</guid>
+      <description>HOUSE YOICHIとは？ Producer/DJ/TrackMakerによる音楽家集団です。
+現在、日本人のほかアメリカ・オーストラリア・北朝鮮・コンゴを母国とする音楽家が10数名在籍しています。</description>
+    </item>
+    
+  </channel>
+</rss>
