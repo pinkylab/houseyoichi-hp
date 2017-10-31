@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Responsive on HOUSE YOICHI</title>
+<<<<<<< HEAD
     <link>http://houseyoichi.com/tags/responsive/</link>
     <description>Recent content in Responsive on HOUSE YOICHI</description>
     <generator>Hugo -- gohugo.io</generator>
@@ -9,6 +10,13 @@
     
 	<atom:link href="http://houseyoichi.com/tags/responsive/index.xml" rel="self" type="application/rss+xml" />
     
+=======
+    <link>http://houseyoichi.com/tags/responsive/index.xml</link>
+    <description>Recent content in Responsive on HOUSE YOICHI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp-ja</language>
+    <atom:link href="http://houseyoichi.com/tags/responsive/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 10bc9191605dd13d9b5f869b85dda85a25d44c0e
     
     <item>
       <title>Project 3</title>
