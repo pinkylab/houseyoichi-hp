@@ -3,6 +3,9 @@ title: "About"
 tags: []
 draft: false
 ---
+<style>
+h5 {display: none; }
+</style>
 <img src="/images/logo.png" alt="HOUSE YOICHI LOGO" />
 
 ### HOUSE YOICHIとは？
