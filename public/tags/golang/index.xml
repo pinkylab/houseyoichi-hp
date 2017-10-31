@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOUSE YOICHI</title>
-    <link>http://houseyoichi.com/index.xml</link>
-    <description>Recent content on HOUSE YOICHI</description>
+    <title>Golang on HOUSE YOICHI</title>
+    <link>http://houseyoichi.com/tags/golang/index.xml</link>
+    <description>Recent content in Golang on HOUSE YOICHI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://houseyoichi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://houseyoichi.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Project 1</title>
@@ -15,51 +14,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://houseyoichi.com/project/project1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HOUSE YOICHI Vol.1</title>
-      <link>http://houseyoichi.com/release/release2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://houseyoichi.com/release/release2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HOUSE YOICHI Vol.2</title>
-      <link>http://houseyoichi.com/release/release1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://houseyoichi.com/release/release1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 2</title>
-      <link>http://houseyoichi.com/project/project2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://houseyoichi.com/project/project2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 3</title>
-      <link>http://houseyoichi.com/project/project3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://houseyoichi.com/project/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>http://houseyoichi.com/project/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://houseyoichi.com/project/project4/</guid>
       <description></description>
     </item>
     
