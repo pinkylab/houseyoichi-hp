@@ -1,9 +1,9 @@
 ---
 title: "About"
-date: null
 tags: []
 draft: false
 ---
+<img src="/images/logo.png" alt="HOUSE YOICHI LOGO" />
 
 ### HOUSE YOICHIとは？
 Producer/DJ/TrackMakerによる音楽家集団です。  
