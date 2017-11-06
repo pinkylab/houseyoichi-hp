@@ -25,7 +25,7 @@ Tokyo, 150-0044
 1000 JPY(with 1Drink)
 
 ## TimeTable
-16:00 ~ 16:15 MONOQ (LIVE)
+16:00 ~ 16:15 MONOQ (LIVE)  
 16:15 ~ 17:00 akky  
 17:00 ~ 17:50 exy  
 17:50 ~ 18:40 Nabetti  
