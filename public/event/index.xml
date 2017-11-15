@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on HOUSE YOICHI</title>
+    <link>http://houseyoichi.com/event/</link>
+    <description>Recent content in Events on HOUSE YOICHI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp-ja</language>
+    <copyright>&amp;copy; HOUSE YOICHI</copyright>
+    <lastBuildDate>Sun, 26 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://houseyoichi.com/event/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Release Party Vol.2</title>
+      <link>http://houseyoichi.com/event/releasepartyvol2/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/event/releasepartyvol2/</guid>
+      <description>11月26日(日) 16:00~22:00 渋谷White Space Labにて
+「HOUSE YOICHI Vol.2」のリリースパーティを行います。
+皆様に我々の「ハウス」をお届けできる日を楽しみにしています。
+Date 2017.11.26(Sun)
+Time 16:00 - 22:00
+Place Shibuya White Space Lab
+2-20 Maruyama-cho, Shibuya-ku
+Tokyo, 150-0044
+03-6416-3973
+Door 1000 JPY(with 1Drink)
+TimeTable 16:00 ~ 16:15 MONOQ (LIVE)
+16:15 ~ 17:00 akky
+17:00 ~ 17:50 exy
+17:50 ~ 18:40 Nabetti
+18:40 ~ 19:30 Peno
+19:30 ~ 20:20 Pinkylab
+20:20 ~ 21:10 Yuki Ohbuchi
+21:10 ~ 22:00 DJ NICE CHOICE</description>
+    </item>
+    
+  </channel>
+</rss>
