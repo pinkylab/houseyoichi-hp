@@ -38,6 +38,11 @@ googleAnalytics = ""
     name = "Event"
     weight = 4
 
+[[menu.main]]
+    url = "https://houseyoichi.bandcamp.com/"
+    name = "Buy"
+    weight = 5
+
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
@@ -56,3 +61,8 @@ googleAnalytics = ""
     url = "https://twitter.com/houseyoichi/"
     name = "twitter"
     weight = 3
+
+[[menu.icon]]
+    url = "https://houseyoichi.bandcamp.com/"
+    name = "bandcamp"
+    weight = 4
