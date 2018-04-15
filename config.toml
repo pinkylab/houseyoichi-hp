@@ -3,7 +3,8 @@ languageCode = "jp-ja"
 title = "HOUSE YOICHI"
 theme = "minimal"
 # disqusShortname = "username" # delete this to disable disqus comments
-googleAnalytics = ""
+googleAnalytics = "UA-117556503-1"
+publishDir = "docs"
 
 [params]
     author = "HOUSE YOICHI"

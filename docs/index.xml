@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>jp-ja</language>
     <copyright>&amp;copy; HOUSE YOICHI</copyright>
-    <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://houseyoichi.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>HOUSE YOICHI Vol.3</title>
+      <link>http://houseyoichi.com/release/houseyoichivol3/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/release/houseyoichivol3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HOUSE YOICHI Vol.2</title>
@@ -28,6 +37,33 @@
       
       <guid>http://houseyoichi.com/release/houseyoichivol1/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Release Party Vol.3</title>
+      <link>http://houseyoichi.com/event/releasepartyvol3/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://houseyoichi.com/event/releasepartyvol3/</guid>
+      <description>5月4日(金) 16:00~22:00 早稲田茶箱にて
+「HOUSE YOICHI Vol.3」のリリースパーティを行います。
+皆様に我々の「ハウス」をお届けできる日を楽しみにしています。
+Date 2018.05.04(Fri)
+Time 16:00 - 22:00
+Place 早稲田 茶箱
+〒162-0051
+東京都新宿区西早稲田2-1-19 YKビルB1F
+03-5272-7385
+Door 1000 JPY(with 1Drink)
+DJs MONOQ
+exy
+Gersonik
+Peno
+Pinkylab
+Yuki Ohbuchi
+Joina
+asazuke
+TimeTable Coming Soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -63,7 +99,8 @@ TimeTable 16:00 ~ 16:15 MONOQ (LIVE)
       
       <guid>http://houseyoichi.com/about/</guid>
       <description>h5 {display: none; }  HOUSE YOICHIとは？ Producer/DJ/TrackMakerによる音楽家集団です。
-現在、日本人のほかアメリカ・オーストラリア・北朝鮮・コンゴを母国とする音楽家が10数名在籍しています。</description>
+お問い合わせは以下までお願い致します。
+house.yoichi@gmail.com</description>
     </item>
     
   </channel>
