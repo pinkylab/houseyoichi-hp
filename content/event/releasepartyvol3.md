@@ -27,10 +27,11 @@ draft: false
 ## DJs
 MONOQ  
 exy  
-Nabetti  
+Gersonik  
 Peno  
 Pinkylab  
 Yuki Ohbuchi  
+Joina  
 asazuke
 
 ## TimeTable
