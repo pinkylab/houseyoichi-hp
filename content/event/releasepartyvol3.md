@@ -32,7 +32,7 @@ Peno
 Pinkylab  
 Yuki Ohbuchi  
 Joina  
-asazuke
+Asazuke
 
 ## TimeTable
 Coming Soon...
