@@ -18,10 +18,10 @@ HOUSE YOICHI Vol.7
 
 No | Title | Artist
 --- | --- | ---
-1 | Gersonik | 302
-2 | Ujörk | Permutation City
-3 | Sho Okada | ki
-4 | exy | Long dan
-5 | Joina | control
-6 | Pinkylab | Wage slaves
-7 | Peno | Balance
+1 | 302 | Gersonik
+2 | Permutation City | Ujörk
+3 | ki | Sho Okada
+4 | Long dan | exy
+5 | control | Joina
+6 | Wage slaves | Pinkylab
+7 | Balance | Peno
