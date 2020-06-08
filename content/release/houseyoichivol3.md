@@ -2,8 +2,26 @@
 title: "HOUSE YOICHI Vol.3"
 description: ""
 date: 2018-04-29
-link: "//vol3.houseyoichi.com/"
 tags: []
 weight: 100
 draft: false
 ---
+
+## TITLE
+HOUSE YOICHI Vol.3
+
+## RELEASE DATE
+2018/04/29
+
+## TRACKLIST
+
+No | Title | Artist
+--- | --- | ---
+1 | Koredake | Gersonik
+2 | Calone | Peno
+3 | MEANINGOFLIFE | MONOQ
+4 | Sweet Blue Planet feat. MIHO | Pinkylab
+5 | Shade| Joina
+6 | GEISHIA000001 | Asazuke
+7 | Quiet, lulled and smooth | exy
+8 | Electric Life Weapon 2 | Yuki Ohbuchi
