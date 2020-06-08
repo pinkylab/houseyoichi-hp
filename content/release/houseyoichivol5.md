@@ -3,8 +3,25 @@ title: "HOUSE YOICHI Vol.5"
 description: ""
 date: 2019-04-28
 publishdate: 2019-04-09
-link: "//vol5.houseyoichi.com/"
 tags: []
 weight: 98
 draft: false
 ---
+
+## TITLE
+HOUSE YOICHI Vol.5
+
+## RELEASE DATE
+2019/04/28
+
+## TRACKLIST
+
+No | Title | Artist
+--- | --- | ---
+1 | Daydream | Canta Bille & Peno
+2 | Faded | Gersonik
+3 | Forever | MONOQ
+4 | lìng hé | Ujörk
+5 | ｓhady 女性 | スーパー・セミヌード・マシン
+6 | Recurring dream feat.tacop | Pinkylab
+7 | The auto city is over | exy
