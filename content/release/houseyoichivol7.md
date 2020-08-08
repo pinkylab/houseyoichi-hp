@@ -25,3 +25,6 @@ No | Title | Artist
 5 | control | Joina
 6 | Wage slaves | Pinkylab
 7 | Balance | Peno
+
+## Sample
+<iframe style="border: 0; width: 350px; height: 687px;" src="https://bandcamp.com/EmbeddedPlayer/album=61680880/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-7">HOUSE YOICHI Vol​​.​​7 by HOUSE YOICHI</a></iframe>
