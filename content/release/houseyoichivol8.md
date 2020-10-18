@@ -8,6 +8,10 @@ weight: 95
 draft: false
 ---
 
+ ![HOUSE YOICHI Vol.8](/images/vol8.png)
+
+---
+
 ## TITLE
 HOUSE YOICHI Vol.8
 
