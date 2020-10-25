@@ -28,5 +28,6 @@ No | Title | Artist
 9 | Irregular | DJ NICECHOICE
 10 | Sleeping dust | Yoichi
 
-## Sample
+## Sample & Buy
+
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=2742354778/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-2">HOUSE YOICHI Vol.2 by HOUSE YOICHI</a></iframe>

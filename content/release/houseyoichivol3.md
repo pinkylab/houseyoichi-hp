@@ -26,5 +26,6 @@ No | Title | Artist
 7 | Quiet, lulled and smooth | exy
 8 | Electric Life Weapon 2 | Yuki Ohbuchi
 
-## Sample
+## Sample & Buy
+
 <iframe style="border: 0; width: 350px; height: 720px;" src="https://bandcamp.com/EmbeddedPlayer/album=3964130066/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-3">HOUSE YOICHI Vol.3 by HOUSE YOICHI</a></iframe>

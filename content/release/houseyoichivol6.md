@@ -30,5 +30,5 @@ No | Title | Artist
 10 | Feeling Right | Canta Bille
 11 | Electronic Life Weapon 4 | Yuki Ohbuchi
 
-## Sample
+## Sample & Buy
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=3972677686/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-6">HOUSE YOICHI Vol​.​6 by HOUSE YOICHI</a></iframe>
