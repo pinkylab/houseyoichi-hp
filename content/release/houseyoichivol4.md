@@ -27,5 +27,6 @@ No | Title | Artist
 7 | Electronic Life Weapon 3 | Yuki Ohbuchi
 8 | 曖昧な愛 feat.tacop | Pinkylab
 
-## Sample
+## Sample & Buy
+
 <iframe style="border: 0; width: 350px; height: 720px;" src="https://bandcamp.com/EmbeddedPlayer/album=3651499458/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-4">HOUSE YOICHI Vol.4 by HOUSE YOICHI</a></iframe>

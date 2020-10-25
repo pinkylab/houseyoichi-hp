@@ -31,3 +31,7 @@ No | Title | Artist
 7 |  Yang gan ju | exy
 8 |  Sazanami | Gersonik
 9 |  Waterpark | Joina
+
+## Sample & Buy
+
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1476039378/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://houseyoichi.bandcamp.com/album/house-yoichi-vol-8">HOUSE YOICHI Vol.8 by HOUSE YOICHI</a></iframe>

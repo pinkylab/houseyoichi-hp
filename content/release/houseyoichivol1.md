@@ -28,5 +28,6 @@ No | Title | Artist
 9 | 恋の形 monoq Remix | monoq
 10 | Stay with | Asazuke
 
-## Sample
+## Sample & Buy
+
 <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=3257579718/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://houseyoichi.bandcamp.com/album/house-yoichi-vol-1">HOUSE YOICHI Vol.1 by HOUSE YOICHI</a></iframe>
